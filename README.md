@@ -7,7 +7,7 @@
 - 💬 Ask me about Swift, jiu-jistu, foreign languages
 - 📫 How to reach me: Email - melehAmiti@proton.me | Instagram - @leonardo.jfk
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I'm on my way to visit 150 countries
+- ⚡ Fun fact: I'm a polyglot
   
 <!--
 **Leonardo-jfk/Leonardo-jfk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
