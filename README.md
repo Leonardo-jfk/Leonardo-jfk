@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on MoneyManagement 
-- 🌱 I’m currently learning Reack Native, C++
+- 🌱 I’m currently learning Reack Native, Python
 - 👯 I’m looking to collaborate on any project that is prommising
 - 🤔 I’m looking for help with App Store, pushing out the Motivation app
 - 💬 Ask me about Swift, jiu-jistu, foreign languages
